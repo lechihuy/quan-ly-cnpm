@@ -4,3 +4,4 @@ Tuần 6
 * User story mới bold trong gantt chart, task không bold
 * Thành viên làm là những người trong nhóm
 * Theo mô hình Scrum không có task Database riêng
+* Chỉ đánh point cho user story
