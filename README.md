@@ -5,4 +5,5 @@ Tuần 6
 * Thành viên làm là những người trong nhóm
 * Theo mô hình Scrum không có task Database riêng
 * Chỉ đánh point cho user story
-* Giữa các sprint phải chạy tuyến tính
+* Giữa các sprint phải chạy tuyến tính, các task trong 1 sprint có thể chạy song song
+* Tất cả thành viên phải có việc làm trong 1 sprint
